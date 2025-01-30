@@ -25,7 +25,7 @@ npm install ug-domain-checker
 2. Use the following code to check domain availability:
 
 ```javascript
-const checkDomainAvailability = require('domain-checker');
+const checkDomainAvailability = require('ug-domain-checker');
 
 const domains = ['example1.co.ug', 'example2.co.ug', 'example3.co.ug'];
 const apiKey = 'your-api-key-here';

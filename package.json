@@ -1,6 +1,6 @@
 {
   "name": "ug-domain-checker",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A simple way to add .ug domain search to your application",
   "main": "index.js",
   "scripts": {
