@@ -5,7 +5,7 @@ A simple Node.js library to check the availability of `.ug` domains using the re
 
 ## Features
 
-- Check the availability of multiple domains at once.
+- Check the availability of single or multiple domains at once.
 - Easily integrate into your Node.js projects.
 - Secure API usage with API key authentication.
 
